@@ -1,0 +1,6 @@
+@dotnet_multi_tenant_boilerplate_HostAddress = http://localhost:5104
+
+GET {{dotnet_multi_tenant_boilerplate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
